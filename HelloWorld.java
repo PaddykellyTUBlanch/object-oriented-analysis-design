@@ -1,6 +1,6 @@
 /**
-Paddy kelly <br>
-wensday20231025 1110 <br>
+Paddy Kelly <br>
+Wednesday 20231025 1110 <br>
 HelloWorld <br>
 Sample to demonstrate basic java concepts
 */
