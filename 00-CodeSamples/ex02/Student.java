@@ -1,13 +1,18 @@
-/**
-Paddy Kelly <br>
-Wednesday 20231025 1110 <br>
-HelloWorld <br>
-Sample to demonstrate basic java concepts
+/** 
+Mark Deegan <br>
+20231025 1639 <br>
+Studebnt class <br>
+Sample code to demonstrate class declaration and inheritance (extending classes) <br>
 */
-public class student extends to person
-{ // start declaration of the class HelloWorld
+public class Student extends Person
+{ // start declaration of public class Student, this class extends (inherits from) class Person
 	public static void main(String[] args)
-    	{ // start declaration of main method
-	System.out.println("Hello World!"); // standard Hello World! greeting
-	} // end declaration of main method
-} // end declaration of class HelloWorld
+	{ // start declaration of the main method
+		System.out.println("Hello, I am a Student!"); // print a simple message
+	} // end declaration of the main method
+
+	public Student() 
+	{ // begin declaration of no parameters constructor
+		System.out.println("The no parameters construcor for class Student has been called.");
+	}
+} // end declaration of class Student

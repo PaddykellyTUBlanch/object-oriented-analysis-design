@@ -1,13 +1,13 @@
-/**
-Paddy Kelly <br>
-Wednesday 20231025 1110 <br>
-inherintance person <br>
-Sample to demonstrate basic java concepts
+/** 
+Mark Deegan <br>
+20231025 1639 <br>
+Person class <br>
+Sample code to demonstrate class declaration and inheritance (extending classes) <br>
 */
-public class person 
-{ // start declaration of the class HelloPerson
+public class Person
+{ // start declaration of public class Person
 	public static void main(String[] args)
-    	{ // start declaration of main method
-		System.out.println("hello person"); // standard Hello person! greeting
-	} // end declaration of main method
-} // end declaration of class HelloPerson
+	{ // start declaration of the main method
+		System.out.println("Hello, I am a Person!"); // print a simple message
+	} // end declaration of the main method
+} // end declaration of class Person
