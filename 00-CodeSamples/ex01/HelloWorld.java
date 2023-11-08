@@ -1,9 +1,9 @@
 /**
 Paddy Kelly <br>
 Wednesday 20231025 1110 <br>
-Anything new
-Off to Cheltenham, a bit early mind
-Mark Deegan says, I [refer {Punchestown
+Anything new?
+Off to Cheltenham, a bit early mind.
+Mark Deegan says, I prefer Punchestown.
 HelloWorld <br>
 Sample to demonstrate basic java concepts
 */
